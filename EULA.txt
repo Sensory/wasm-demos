@@ -1,0 +1,84 @@
+END USER LICENSE AGREEMENT
+
+THE FOLLOWING TERMS AND CONDITIONS (the End User License Agreement, or “EULA”) SET FORTH THE RIGHTS BEING LICENSED TO YOU (“Licensee”) FOR THE USE OF SENSORY, INC.’S (“Sensory”) APPLICATION (“Software”). THESE RIGHTS ARE THE ONLY RIGHTS LICENSEE HAS TO THE SOFTWARE, SO IF LICENSEE DOES NOT AGREE TO THE TERMS AND CONDITIONS OF THIS EULA, DO NOT USE THE SOFTWARE.
+
+License:
+Sensory grants Licensee a personal, non-commercial, non-transferable, non-sublicensable, limited, and non-exclusive right to use the Software on a single computer, tablet, or mobile device for use by a single concurrent user, and solely provided that Licensee adheres to all the terms and conditions of this EULA. No right is granted to rent, transfer, assign, or distribute all or part of the Software, or any rights granted hereunder, to any third parties. This EULA grants Licensee the right to use the Software for personal use only.  Commercial use of the Software or of the work products resulting from its use is not permitted under this EULA.
+
+
+Restrictions:
+(a)	Licensee is prohibited from copying, modifying, merging, selling, leasing, redistributing, assigning, or transferring in any manner, any portion of the Software.
+(b)	Licensee may make a single copy of materials related to the Software only as required for backup purposes.
+(c)	Licensee is prohibited from reverse engineering, decompiling, translating, disassembling, deciphering, decrypting, or otherwise attempting to discover the source code of the Software. Licensee may not otherwise modify, alter, adapt, port, merge, or otherwise attempt to enclose any content within the Software.
+(d)	Licensee may not remove, alter, deface, overprint or otherwise obscure Licensor patent, trademark, service mark or copyright notices.
+(e)	Licensee may not publish or distribute in any form of electronic or printed communication the materials within or otherwise related to the Software, including but not limited to the object code, documentation, help files, examples and benchmarks.
+(f)	Licensee may not publish the results of benchmarking the Software against competitive software, except to the extent that the foregoing restriction is expressly prohibited by applicable law.
+(g)	Licensee may not remove any proprietary notices, labels or marks from the Software.
+(h)	Licensee agrees not to create derivative works based on the Software.
+
+
+Data Collection and Use:
+Licensee acknowledges and agrees that by accessing or using the Software, Sensory may collect data from the Licensee. Sensory will treat data collected in accordance with Sensory’s Privacy Policy.  Licensee agrees that in return for application usage or fees paid, user grants full and un-encumbered rights to all data collected, regardless of data type, so long as such data is not personally identifiable. For any personally identifiable data collected Sensory will abide by the laws and restrictions on data in the territory in which it was collected.
+
+
+Ownership:
+The foregoing is an express limited use license and not an assignment, sale, or other transfer of the Software or any Intellectual Property Rights (as defined below) of Licensor. NO OTHER LICENSES, WHETHER EXPRESS OR IMPLIED, ARE GRANTED UNDER THIS EULA. Licensor and/or its affiliates or subsidiaries own all rights that may exist from time to time in this or any other jurisdiction, whether foreign or domestic, under patent law, copyright law, publicity rights law, moral rights law, trade secret law, trademark law, unfair competition law or other similar protections, regardless of whether or not such rights or protections are registered or perfected (the “Intellectual Property Rights”), in the Software. ALL INTELLECTUAL PROPERTY RIGHTS IN AND TO THE SOFTWARE ARE AND SHALL REMAIN IN LICENSOR OR ITS SUPPLIERS.
+
+
+Copyright:
+Licensee acknowledges that no title to the intellectual property in the Software is transferred to Licensee. Licensee further acknowledge that title and full ownership rights to the Software will remain the exclusive property of Sensory, and Licensee will not acquire any rights to the Software except as set forth above. The Software is protected by copyright laws and international treaty provisions. Accordingly, Licensee is required to treat the Software like any other copyrighted material.
+
+
+Disclaimer of Warranties:
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND SENSORY DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. The entire risk as to the quality and performance of the Software is with Licensee. Sensory does not warrant that the functions contained in the Software will meet Licensee’s requirements or that the operation of the Software will be error-free.
+
+
+Limitation of Liability:
+IN NO EVENT SHALL SENSORY BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, COST OF COVER, OR OTHER PECUNIARY LOSS, ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+
+Remedies:
+Notwithstanding any damages that the licensee might incur for any reason whatsoever (including, without limitations, all damages referenced above and all direct or general damages), the entire liability of Sensory under any provision of this EULA to licensee, and licensee’s exclusive remedy, shall be limited to the amount paid by licensee to Sensory for the Software. The foregoing limitations, exclusions, and disclaimers shall apply to the maximum extent permitted by law, even if any remedy fails its essential purpose. Sensory retains the rights to any and all legal remedies, including immediate temporary injunctive and other equitable relief, which may be available to Sensory under the applicable law.
+
+
+Indemnification:
+Licensee agrees to indemnify, hold harmless and defend Sensory from and against any claims loss, damage, cost, liability and expense, including, but not limited to, reasonable attorneys’ fees, resulting from or arising out of Licensee’s: (a) access to or use of the Software; (b) violation of this Agreement or any law or regulation; or (c) violation of any rights of another party.
+
+
+Governing Law:
+This EULA shall be governed by the laws of the State of California and by the laws of the United States excluding its conflicts of law principles. The United Nations Convention on Contracts for the International Sale of Goods (1980) is hereby excluded in its entirety from application to this Agreement.
+
+
+Changes to Software:
+Sensory reserves the right to modify, suspend, or discontinue the Software and Sensory shall not be liable to Licensee or to any third party for any such modification, suspension, or discontinuance. Sensory may at its sole discretion from time to time develop patches, bug fixes, updates, upgrades and other modifications to improve the performance of the Software (“Updates”). Sensory may develop Updates that require installation by the Licensee before the Licensee continues to access or use the Software. Updates may also be automatically installed without providing any additional notice to the Licensee or receiving any additional consent from the Licensee. The manner in which Updates may be automatically downloaded and installed is determined by the Licensee’s device settings and operating system. Sensory has no obligation to support or to provide any updates to the Software.
+
+
+Applicability of Updates and Upgrades:
+All updates and upgrades of the Software from a previously released version shall be governed by the terms and conditions of this EULA.
+
+
+Amendment to this EULA:
+Sensory reserves the right, at its sole discretion, to modify or replace this EULA at any time.
+
+
+Termination:
+The terms of this EULA will commence upon Licensee’s download of the Software and are effective until terminated. Licensee may terminate this EULA at any time by uninstalling the Software. These terms will immediately terminate upon Licensee’s breach of this EULA. Sensory may, in its sole discretion, at any time and for any or no reason, suspend or terminate this EULA with or without prior notice. Upon any termination, Licensee agrees to uninstall the Software and return or destroy all copies of the Software, any accompanying documentation, as well as any and all other associated materials.
+
+
+Severability:
+In the event any provision of this EULA is found to be invalid, illegal or unenforceable, the validity, legality and enforceability of any of the remaining provisions shall not in any way be affected or impaired and a valid, legal and enforceable provision of similar intent and economic impact shall be substituted therefore.
+
+
+Integration:
+This EULA sets forth the entire understanding and agreement between Licensee and Licensor, supersedes all prior agreements, whether written or oral, with respect to the Software, and may be amended only in a writing signed by both parties.
+
+
+Contact Information:
+For any questions about this EULA, please contact us at
+
+Sensory, Inc.
+3150 De La Cruz Blvd., Suite 120
+Santa Clara,
+California 95054
+
+408 625 3300
